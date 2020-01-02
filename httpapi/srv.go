@@ -23,9 +23,9 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/HouzuoGuo/tiedot/db"
-	"github.com/HouzuoGuo/tiedot/tdlog"
-	"github.com/dgrijalva/jwt-go"
+	"github.com/wanghonggao007/jwt-go"
+	"github.com/wanghonggao007/tiedot/db"
+	"github.com/wanghonggao007/tiedot/tdlog"
 )
 
 var (

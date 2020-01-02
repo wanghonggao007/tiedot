@@ -8,8 +8,8 @@ package data
 import (
 	"sync"
 
-	"github.com/HouzuoGuo/tiedot/dberr"
-	"github.com/HouzuoGuo/tiedot/tdlog"
+	"github.com/wanghonggao007/tiedot/dberr"
+	"github.com/wanghonggao007/tiedot/tdlog"
 )
 
 // Partition associates a hash table with collection documents, allowing addressing of a document using an unchanging ID.
